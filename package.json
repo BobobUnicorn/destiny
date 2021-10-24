@@ -1,14 +1,14 @@
 {
-  "name": "destiny",
+  "name": "destiny-ui",
   "description": "A reactive UI library for JavaScript and TypeScript.",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "main": "./dist/examples/main.js",
   "types": "./src/mod.ts",
   "browser": "./dist/mod.js",
   "type": "module",
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.28.0",
-    "@typescript-eslint/parser": "^4.28.0",
+    "@typescript-eslint/eslint-plugin": "^4.28.1",
+    "@typescript-eslint/parser": "^4.28.1",
     "eslint": "^7.29.0",
     "typescript": "^4.3.4"
   },
@@ -29,6 +29,6 @@
     "reactive-programming"
   ],
   "repository": "https://github.com/0kku/destiny",
-  "author": "https://github.com/0kku/",
+  "author": "Okku (https://github.com/0kku/)",
   "license": "OSL-3.0"
 }
